@@ -1,2 +1,2 @@
-# real-time-currency-exchange-using-python
-Get real time update on currency exchange of different currencies
+# Stock Price Reminder
+Set a price for a particular value. If the price of that stock crosses the set price value, an alarm will go off notifying you of the situation.
